@@ -14,4 +14,4 @@ def index():
 
 @app.get("/testing_data")
 def TestingData():
-    return 
+    return Td + ' ' + Sd
