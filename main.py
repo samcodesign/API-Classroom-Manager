@@ -12,3 +12,11 @@ app = FastAPI()
 def read_root():
     return {"Hello": "World"}
 
+@app.get("/sallesTD_Test")
+def sallesTest():
+    return Sd
+
+
+@app.get("/Teachers_data")
+def TeachersDataTest():
+    return Td
