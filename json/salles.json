@@ -1,0 +1,156 @@
+[
+    {
+        "Numéro de salle": 100,
+        "réservé_par":["","","","",""],
+        "créneaux": {
+        "crénau1": "",
+        "crénau2": "",
+        "crénau3": "",
+        "crénau4": "",
+        "crénau5": "",
+        "crénau6": "",
+        "crénau7": "" 
+        },
+        "module": ["électronique","Math","électrotechnique","VOM"]
+    },
+    {
+        "Numéro de salle": 101,
+        "réservé_par":["","","","",""],
+        "créneaux": {
+        "crénau1": "",
+        "crénau2": "",
+        "crénau3": "",
+        "crénau4": "",
+        "crénau5": "",
+        "crénau6": "",
+        "crénau7": "" 
+        },
+        "module": ["électronique","Math","électrotechnique","VOM"]
+    },
+    {
+        "Numéro de salle": 102,
+        "réservé_par":["","","","",""],
+        "créneaux": {
+        "crénau1": "",
+        "crénau2": "",
+        "crénau3": "",
+        "crénau4": "",
+        "crénau5": "",
+        "crénau6": "",
+        "crénau7": "" 
+        },
+        "module": ["électronique","Math","électrotechnique","VOM"]
+    },
+    {
+        "Numéro de salle": 103,
+        "réservé_par":["","","","",""],
+        "créneaux": {
+        "crénau1": "",
+        "crénau2": "",
+        "crénau3": "",
+        "crénau4": "",
+        "crénau5": "",
+        "crénau6": "",
+        "crénau7": "" 
+        },
+        "module": ["électronique","Math","électrotechnique","VOM"]
+    },
+    {
+        "Numéro de salle": 200,
+        "réservé_par":["","","","",""],
+        "créneaux": {
+        "crénau1": "",
+        "crénau2": "",
+        "crénau3": "",
+        "crénau4": "",
+        "crénau5": "",
+        "crénau6": "",
+        "crénau7": "" 
+        },
+        "module": ["électronique","Math","électrotechnique","VOM"]
+    },
+    {
+        "Numéro de salle": 202,
+        "réservé_par":["","","","",""],
+        "créneaux": {
+        "crénau1": "",
+        "crénau2": "",
+        "crénau3": "",
+        "crénau4": "",
+        "crénau5": "",
+        "crénau6": "",
+        "crénau7": "" 
+        },
+        "module": ["électronique","Math","électrotechnique","VOM"]
+    },
+    {
+        "Numéro de salle": 205,
+        "réservé_par":["","","","",""],
+        "créneaux": {
+        "crénau1": "",
+        "crénau2": "",
+        "crénau3": "",
+        "crénau4": "",
+        "crénau5": "",
+        "crénau6": "",
+        "crénau7": "" 
+        },
+        "module": ["électronique","Math","électrotechnique","VOM"]
+    },
+    {
+        "Numéro de salle": 300,
+        "réservé_par":["","","","",""],
+        "créneaux": {
+        "crénau1": "",
+        "crénau2": "",
+        "crénau3": "",
+        "crénau4": "",
+        "crénau5": "",
+        "crénau6": "",
+        "crénau7": "" 
+        },
+        "module": ["électronique","Math","électrotechnique","VOM"]
+    },
+    {
+        "Numéro de salle": 380,
+        "réservé_par":["","","","",""],
+        "créneaux": {
+        "crénau1": "",
+        "crénau2": "",
+        "crénau3": "",
+        "crénau4": "",
+        "crénau5": "",
+        "crénau6": "",
+        "crénau7": "" 
+        },
+        "module": ["électronique","Math","électrotechnique","VOM"]
+    },
+    {
+        "Numéro de salle": 324,
+        "réservé_par":["","","","",""],
+        "créneaux": {
+        "crénau1": "",
+        "crénau2": "",
+        "crénau3": "",
+        "crénau4": "",
+        "crénau5": "",
+        "crénau6": "",
+        "crénau7": "" 
+        },
+        "module": ["électronique","Math","électrotechnique","VOM"]
+    },
+    {
+        "Numéro de salle": 431,
+        "réservé_par":["","","","",""],
+        "créneaux": {
+        "crénau1": "",
+        "crénau2": "",
+        "crénau3": "",
+        "crénau4": "",
+        "crénau5": "",
+        "crénau6": "",
+        "crénau7": "" 
+        },
+        "module": ["électronique","Math","électrotechnique","VOM"]
+    }
+]
