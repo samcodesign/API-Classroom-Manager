@@ -1,26 +1,22 @@
 [
-    {
-        "First_name": "Ahmed",
-        "Last_name": "Mougari",
-        "id": "1",
-        "Password": "qwerty"
-    },
-    {
-        "First_name": "Omar",
-        "Last_name": "Chaterbache",
-        "id": "2",
-        "Password": "q012345"
-    },
-    {
-        "First_name": "Moufek",
-        "Last_name": "Hamza",
-        "id": "3",
-        "Password": "2+2is4"
-    },
-    {
-        "First_name": "Ghoumari",
-        "Last_name": "Leila",
-        "id": "4",
-        "Password": "samy"
-    }
+     {
+		"First_name": "Ahmed",
+		"Last_name": "Mougari",
+		"Password": "qwerty"
+	},
+     {
+		"First_name": "Omar",
+		"Last_name": "Chaterbache",
+		"Password": "q012345"
+	},
+     {
+		"First_name": "Moufek",
+		"Last_name": "Hamza",
+		"Password": "2+2is4"
+	},
+	{
+		"First_name": "Ghoumari",
+		"Last_name": "Leila",
+		"Password": "samy"
+	}
 ]
