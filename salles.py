@@ -1,10 +1,10 @@
-{
-   " 100": {
+sallesTD = {
+    1: {
         "number": 100,
         "reservedBy": ""
     },
-    "200": {
+    2: {
         "number": 200,
         "reservedBy": ""
-    }
+    },
 }
