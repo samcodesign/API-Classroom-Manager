@@ -72,9 +72,27 @@ def CreateTeacher(teacher_id:int, teacher: Teacher):
 
 
 @app.put("/update-teacher/{teacher_id}")
-def updateTeacher(teacher_id : int, teacher: UpdateTeacher):
-    if teacher_id in teachers_data:
+def updateTeacher(teacher_id: int, teacher: UpdateTeacher):
+    if teacher_id not in teachers_data:
         return {"Error": "Teacher does not exist in database"}
     
-    teachers_data[teacher_id] = teacher
+    if teacher.First_name != None:
+        teachers_data[teacher_id]["First_name"] = teacher.First_name
+
+    if teacher.Last_name != None:
+        teachers_data[teacher_id]["Last_name"] = teacher.Last_name
+
+    if teacher.Password != None:
+        teachers_data[teacher_id]["Password"] = teacher.Password
+
+    if teacher.email != None:
+        teachers_data[teacher_id]["email"] = teacher.email
+
     return teachers_data[teacher_id]
+
+@app.delete("/delete-teacher/{teacher_id}")
+def delete_teacher(teacher_id: int):
+    if teacher_id not in teachers_data:
+        return {"Error": "Teacher does not exist"}
+    del teachers_data[teacher_id]
+    return {"message": "Student deleted successfully"}
